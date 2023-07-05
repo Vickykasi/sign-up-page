@@ -1,0 +1,76 @@
+#page {
+    /* width: 960px; */
+    /* margin:0 auto; */
+    /* padding: 20px; */
+    /* height: 600px; */
+   
+}
+
+#design {
+    /* width: 50%; */
+    width: 500px;
+    height: 640px;
+    float: left;
+    background-color:#f2d184;
+    /* #866118; */
+    /* margin-right: 50%; */  
+}
+
+#font{
+    padding: 40px;
+    font-family:Bradley Hand ITC;
+    color:#866118 ;
+    font-size: 30px;
+}
+#end{
+    font-family: sans-serif;
+    
+}
+
+#content {
+    /* width: 50%; */
+    width: 700px;
+    height: 540px;
+    padding: 60px;
+    float: right;
+    /* margin-left: 5%; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIGzor6logk1HI4CGwOAWdOf-3GFS8eV7tJA&usqp=CAU");   
+    /* background-attachment: fixed;  */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    background: darkorange;
+    color: white;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+}
+
+input[type=password],
+input[name=psw]:focus{
+    width: 25%;
+    padding: 5px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    
+    
+}
+#username{
+    display: inline;
+}
+input[type=text],
+input[name=Email] {
+    width: 25%;
+    padding: 5px;
+    margin: 5px 0 22px 0;
+    display: inline;
+    border: none;
+    background: #f1f1f1;
+
+}
+
